@@ -19,4 +19,4 @@ Find me at:
 - 🤖 https://reddit.com/u/mmakes
 - 💼 https://linkedin.com/in/MadelenaMak
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madelena&count_private=true&show_icons=true&title_color=C30052&icon_color=C30052&text_color=FFFFFF&bg_color=000000&hide_border=true#gh-dark-mode-only)
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madelena&count_private=true&show_icons=true&title_color=C30052&icon_color=C30052&text_color=FFFFFF&bg_color=000000&hide_border=true#gh-dark-mode-only) -->
