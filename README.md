@@ -1,7 +1,7 @@
 ### 👋🦄
 
-I am always looking for UX gigs and speaking opportunities. Also let me know if you want to collaborate on an open source project!
-
+<!-- I am always looking for UX gigs and speaking opportunities. Also let me know if you want to collaborate on an open source project!
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
